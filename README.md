@@ -100,4 +100,5 @@ Many firmwares are incorrectly labeled as "FULL EMU" firmware. In reality, most 
 # Credit
     @AceKingSuited (Discord id ace_king_suited/Channel Link: https://discord.gg/E32e7Yca)
     @kilmu1337 (Discord id kilmu1337/Channel Link: https://discord.gg/sXeTPJfpaN)
-
+# Sponsor
+    https://scarlet.technology/
