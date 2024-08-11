@@ -1,4 +1,4 @@
-Thanks to my frined kilmu1337。I will show you how to make your firmware "active"
+Thanks to my friend kilmu1337。I will show you how to make your firmware "active"
 
 # What is an active device?
 An "active device" is actually a misnomer used by firmware developers. Instead of saying a device is "active," it's more accurate to say that the device frequently initiates DMA (Direct Memory Access) transfers. After a DMA transfer is completed, an interrupt is used to notify the CPU that the data has been successfully transferred. This mechanism is often referred to as the "doorbell" mechanism, which is a very apt analogy—just like a delivery person ringing the doorbell to notify you that your package has arrived, the device "rings the doorbell" to inform the CPU that the data is ready.
