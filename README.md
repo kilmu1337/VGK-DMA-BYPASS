@@ -98,7 +98,7 @@ The complete code will be released on pcileech_pcie_cfg_a7.sv.
 Many firmwares are incorrectly labeled as "FULL EMU" firmware. In reality, most authors are just using BARs (Base Address Registers) obtained by dumping the device after an Arbor scan. Such firmwares are not truly "FULL EMU" firmwares. In the future, I will release an update with a detection method specifically targeting the most widely used Realtek firmware. This method will help distinguish between genuine "FULL EMU" firmware and "DUMP EMU" firmware.
 
 # Credit
-    @AceKingSuited (Discord id ace_king_suited/Channel Link: https://discord.gg/E32e7Yca)
+    @AceKingSuited (Discord id ace_king_suited/Channel Link: https://discord.gg/AaRx5CSRru)
     @kilmu1337 (Discord id kilmu1337/Channel Link: https://discord.gg/sXeTPJfpaN)
 # Sponsor
     https://scarlet.technology/
