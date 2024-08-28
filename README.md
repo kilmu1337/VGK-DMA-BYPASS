@@ -1,3 +1,7 @@
+I have released a new project, EmuScan, for detecting emulated firmware and have answered some frequently asked questions.
+
+[emuscan](https://github.com/Manut0/emuscan)
+
 Thanks to my friend kilmu1337。I will show you how to make your firmware "active"
 
 # What is an active device?
