@@ -1,3 +1,7 @@
+## WARNING
+Lately, someone's been pretending to be me on Telegram, claiming to sell "aceking firmware." Just to clear things up: **I only use Discord for contact,Stay safe and don't get scammed!**
+
+
 I have released a new project, EmuScan, for detecting emulated firmware and have answered some frequently asked questions.
 
 [emuscan](https://github.com/Manut0/emuscan)
